@@ -31,5 +31,3 @@ This Part 1 project implements the registration and login features for a console
 * URL: https://www.regular-expression.info/
 *  Pattern Used: '^\+\d{10,13}$'
 
-## Video
-* **Unlisted Presentation Link:** [ YouTube Link]
